@@ -1,3 +1,3 @@
-# bitconnect-peers
+# bitconnect-Peers
 
 bitconnectCoin BlockChain Peers
