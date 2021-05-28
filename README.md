@@ -1,4 +1,4 @@
-# bitconnect-BlockChain-Peers
+# bitconnect-blockchain-peers
 
 
 Premade configuration file:
