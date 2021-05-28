@@ -10,4 +10,4 @@ Premade configuration file.
 
 - For Linux | ~/.bitconnect
 
-Download: 
+Download: https://github.com/bitconnectCore/bitconnect-peers/releases/download/1.0/bitconnect.conf
