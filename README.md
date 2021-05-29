@@ -1,7 +1,7 @@
 # bitconnect-blockchain-peers
 
 
-**bitconnect.conf PreMade Configuration File:**
+**bitconnect.conf Pre-Made Configuration File:**
 
 
 **- For Windows |** C:\Users[YourUsername]\AppData\Roaming\bitconnect
